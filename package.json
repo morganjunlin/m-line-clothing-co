@@ -1,8 +1,9 @@
 {
-  "name": "m-line-clothing-co",
+  "name": "monesprit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^7.9.3",
     "node-sass": "^4.13.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
